@@ -7,6 +7,7 @@
 - [教程文档](tutorial.md)
     - [Web](tutorial/web.md)
     - [Java](tutorial/java.md)
+    - [macOS](tutorial/macos.md)
 - [产品文档](reference.md)
     - [Web 技术结构](reference/web-structure.md)
     - [服务端技术结构](reference/service-structure.md)
